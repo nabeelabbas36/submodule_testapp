@@ -1,0 +1,3 @@
+[submodule "Hotel"]
+	path = Hotel
+	url = https://github.com/nabeelabbas36/Hotel.git
